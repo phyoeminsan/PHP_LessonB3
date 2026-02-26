@@ -1,0 +1,5 @@
+Mathematic Operator
+=> +, -, *, /, %
+
+Assignment Operator
+=> =, +=, -=, *=, /=, %=

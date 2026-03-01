@@ -2,4 +2,4 @@ git init
 git remote add origin ULR copy
 git add .
 git commit -m "Name"
-git push or git push origin main
+git push or git push origin main or master

@@ -22,7 +22,7 @@
     $first_name .= 'Walker';
     echo "<p>$first_name</p>";
 
-    //trim => remover frist space and last space
+    //trim => remove frist space and last space
     $singer = ' Taylor Swift ';
     echo "<p>My favrious singer is$singer.</p>";
     echo "<p>My favrious singer is".trim($singer).".</p>";
